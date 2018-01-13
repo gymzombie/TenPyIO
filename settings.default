@@ -13,3 +13,7 @@ tenable_access_key='YOUR ACCESS KEY HERE'
 
 tenable_secret_key='YOUR SECRET KEY HERE'
 
+
+# Targets - List locations you want to scan
+
+scan_target='www.mysite.com'
